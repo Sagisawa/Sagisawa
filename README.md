@@ -1,4 +1,4 @@
-# Hi there, I'm Sagisawa! 👋
+# Hi there, I'm Sagisawa! 
 
 🎮 Gamer & Developer passionate about building high-performance gaming tools, proxies, and overlays.
 
